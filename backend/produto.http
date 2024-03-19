@@ -1,0 +1,5 @@
+### Index
+GET http://localhost:5041/api/produto
+
+### Store
+POST http://localhost:5041/api/produto
